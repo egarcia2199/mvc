@@ -26,7 +26,7 @@ class Controller_list_group {
     }
 }
 ?>
-?>
+
 
 
 	
